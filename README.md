@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+Brnaham High school, some type of Engineer(computer engineer)
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Pineapple belongs on pizza.
 
 5. Add, commit, and push your changes:
   - git add README.md
@@ -119,3 +119,4 @@ Do **not** include my repository in this pull request.
 
 If you complete this, you have now practiced the full GitHub workflow twice: \
 branch → commit → push → pull request → merge.
+Brnaham High school, some type of Engineer
